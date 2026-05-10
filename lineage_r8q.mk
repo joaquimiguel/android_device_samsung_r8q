@@ -34,7 +34,6 @@ BYPASS_CHARGE_SUPPORTED := true
 TARGET_ENABLE_BLUR := true
 TARGET_HAS_UDFPS := true
 TARGET_CUSTOM_UDFPS := true
-WITH_GAPPS := false
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_NAME := lineage_r8q
